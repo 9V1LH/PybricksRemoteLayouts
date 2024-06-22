@@ -11,6 +11,8 @@ You can use a chrome-based browser and beta.pybricks.com to upload the code to t
 * 42109 LEGO Technic Control+ App-Controlled Top Gear Rally Car
 * 42124 LEGO Technic Control+ Off-Road Buggy
 * 42140 LEGO Technic Control+ App-Controlled Transformation Vehicle
+* 42160 LEGO Technic Control+ Audi RS Q e-tron [tested and modified by Radio_guy]
+* 76112 LEGO DC App-Controlled Batmobile [added by Radio_guy]
 
 ### External (Someone else wrote a program):
 * 42131 LEGO Technic Control+ App-Controlled Cat® D11 Bulldozer
@@ -23,9 +25,8 @@ https://github.com/orgs/pybricks/discussions/1259
 ### Experimental (I don't own this set so I can't test it properly. Please provide feedback):
 * 42100 LEGO Technic Control+ Liebherr R 9800 Excavator (you need 2 remotes; one per hub)
 * 42129 LEGO Technic Control+ 4x4 Mercedes-Benz Zetros Trial Truck
-* 42160 LEGO Technic Control+ Audi RS Q e-tron
 
-### Not supported (these sets can connect directly to the remote. No custom program required):
+### These sets can connect directly to the remote. No custom program required:
 * 60197 LEGO City Passenger Train
 * 60198 LEGO City Cargo Train
-* 76112 LEGO DC App-Controlled Batmobile
+* 76112 LEGO DC App-Controlled Batmobile -> Routine added for full control
