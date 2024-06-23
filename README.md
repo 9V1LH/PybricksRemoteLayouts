@@ -9,8 +9,8 @@ You can use a chrome-based browser and beta.pybricks.com to upload the code to t
 * 10277 LEGO 18+ Crocodile Locomotive (connect the motor to port A)
 * 42099 LEGO Technic Control+ 4X4 X-treme Off-Roader
 * 42109 LEGO Technic Control+ App-Controlled Top Gear Rally Car
-* 42124 LEGO Technic Control+ Off-Road Buggy
-* 42140 LEGO Technic Control+ App-Controlled Transformation Vehicle [added modified version by Profinerd]
+* 42124 LEGO Technic Control+ Off-Road Buggy [modified by Radio_guy]
+* 42140 LEGO Technic Control+ App-Controlled Transformation Vehicle [replaced by a modified version by Profinerd]
 * 42160 LEGO Technic Control+ Audi RS Q e-tron [tested and modified by Radio_guy]
 * 76112 LEGO DC App-Controlled Batmobile [added by Radio_guy]
 
